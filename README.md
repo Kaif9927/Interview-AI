@@ -1,12 +1,12 @@
-cd K:\free-cluely-main\free-cluely-main
->> $env:NODE_OPTIONS="--max-old-space-size=4096"
->> npm run dev -- --port 5181
+![Uploading image.png…]()
 
 
-cd K:\free-cluely-main\free-cluely-main
-npm run dev -- --port 5181
+Developed a comprehensive interview assistance application using Electron framework with React frontend, featuring real-time screenshot capture and AI-powered analysis using Google's Gemini API for intelligent interview question processing and automated response generation.
+Implemented an advanced screenshot queue management system with OCR capabilities using Tesseract.js, enabling automatic text extraction from interview screenshots and intelligent processing of visual content for enhanced interview preparation and analysis.
+Created a secure multi-window Electron application with TypeScript backend services including AutotypeService for automated typing, ScreenshotHelper for screen capture, and LLMHelper for AI integration, providing seamless interview automation and assistance.
+Built a modern React-based user interface with Tailwind CSS styling, featuring queue management for screenshot processing, solution tracking, and real-time status updates with responsive design and intuitive user experience.
+Technologies Used: Electron, React, TypeScript, Google Gemini AI, Tesseract.js (OCR), Screenshot Desktop, Vite, Tailwind CSS, Node.js, Machine Learning (AI Processing), File Management, Cross-Platform Desktop Development.
+Developed a comprehensive interview assistance application using Electron framework with React frontend, featuring real-time screenshot capture and AI-powered analysis using Google's Gemini API for intelligent interview question processing and automated response generation. Implemented an advanced screenshot queue management system with OCR capabilities using Tesseract.js, enabling automatic text extraction from interview screenshots and intelligent processing of visual content for enhanced interview preparation and analysis. Created a secure multi-window Electron application with TypeScript backend services including AutotypeService for automated typing, ScreenshotHelper for screen capture, and LLMHelper for AI integration, providing seamless interview automation and assistance. Built a modern React-based user interface with Tailwind CSS styling, featuring queue management for screenshot processing, solution tracking, and real-time status updates with responsive design and intuitive user experience. Technologies Used: Electron, React, TypeScript, Google Gemini AI, Tesseract.js (OCR), Screenshot Desktop, Vite, Tailwind CSS, Node.js, Machine Learning (AI Processing), File Management, Cross-Platform Desktop Development.
+Skills: electron · React.js · google · tessaract · vite · ML · File Management · Machine Learning · google gemini api · electrons · JavaScript · typer
 
-cd K:\free-cluely-main\free-cluely-main
-$env:GEMINI_API_KEY="AIzaSyCJkm6oBYI7iA4DV_Hdy8V0Qf55a7idh7E"
-$env:NODE_ENV="development"
-npx electron .
+give brief discription of 1-2 line
