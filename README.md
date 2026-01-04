@@ -1,4 +1,6 @@
-![Uploading image.png…]()
+<img width="1731" height="970" alt="image" src="https://github.com/user-attachments/assets/770267f0-2f84-44fb-b86f-0ee9be3a863e" />
+
+
 
 
 Developed a comprehensive interview assistance application using Electron framework with React frontend, featuring real-time screenshot capture and AI-powered analysis using Google's Gemini API for intelligent interview question processing and automated response generation.
